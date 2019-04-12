@@ -12,3 +12,10 @@ When going to `/home/dashboard`, if all of the following are true, the user is r
 
 # deployment
 As a Litmos admin, go to `https://aeon.litmos.com/settings/theme` and add the contents of `custom.html` to the **Custom Javascript** field.
+
+Click the "Save" button on that page.
+
+# deactivation
+Remove the code from "deployment" above from that **Custom Javascript** field.
+
+Click the "Save" button on that page.
